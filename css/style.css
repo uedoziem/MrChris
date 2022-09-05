@@ -1,14 +1,14 @@
 h1 {
   color: white;
   text-align: center;
-  background-color: lightblue;
-  padding: 100px;
+  background-color: white;
+  padding: 200px;
   font-family: "Sans Serif";
   font-size: 60px;
 }
 
 body {
-  text-align: left;
+  text-align: centre;
   background-color: white;
   font-family: "Bitter";
   font-size: 30px;
