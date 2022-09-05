@@ -1,5 +1,5 @@
 h1 {
-  color: white;
+  color: LightBlue;
   text-align: center;
   background-color: white;
   padding: 100px;
@@ -8,7 +8,7 @@ h1 {
 }
 
 body {
-  text-align: centre;
+  text-align: auto;
   background-color: white;
   font-family: "Bitter";
   font-size: 30px;
