@@ -38,11 +38,10 @@ img {
 }
 
 button{
-  a style="display: block;
+  display: block;
   height: 100px;
   width: 300px;
-  margin: auto;
-  margin: auto;
+  margin: 0 auto;
   background-color: white;
   text-color: black;
   text-align: center;
@@ -51,5 +50,5 @@ button{
   line-height: 100px;
   font-family: Arial;
   border-radius: 20px;
-  text-decoration: none;"
+  text-decoration: none;
 }
